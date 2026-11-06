@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+.coverage
+.coverage.*
+*.Zone.Identifier
+*Zone.Identifier
